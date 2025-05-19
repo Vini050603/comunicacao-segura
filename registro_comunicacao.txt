@@ -1,0 +1,325 @@
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: DES
+Mensagem original: teste
+Mensagem criptografada: H9H4mJcR538=
+Chave usada: PUR0Fry0Sw8=
+=============================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: DES
+Mensagem original: teste
+Mensagem criptografada: U6tqTZz0CPE=
+Chave usada: /tzn3Yq7H9w=
+=============================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: DES
+Mensagem original: teste
+Mensagem criptografada: syi6nDngS8U=
+Chave usada: wJxf7R+PZJY=
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: DES
+Mensagem criptografada: syi6nDngS8U=
+Chave usada: wJxf7R+PZJY=
+Mensagem descriptografada: teste
+Mensagem original esperada: teste
+==========================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: AES
+Mensagem original: mamae
+Mensagem criptografada: VJv+56trW0KSVMPFVQnadQ==
+Chave usada: PqhiCkqHvU5MBOSRpmEPSw==
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: AES
+Mensagem criptografada: VJv+56trW0KSVMPFVQnadQ==
+Chave usada: PqhiCkqHvU5MBOSRpmEPSw==
+Mensagem descriptografada: mamae
+Mensagem original esperada: mamae
+==========================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: RSA
+Mensagem original: mamae
+Mensagem criptografada: ru6cqIXid+aIGumYGdorTvYHZQF5UNjWAhve+pLSp50PE0Z76rQTEzseBNa3y0CkG+ZQ/XH5tysvOJwC0js/z9c/ZlAoC1bzeseZbFhHY9ldPEweIMlcFshhCT3FXW4qiPD3dx0xXQUVNNd5KdgTi0zT1lRlqtVlxFk+MRG1J9PI3mt3pv5AMegO5MJ1vELLPCHNlx16hxM5ZSnHJvedGecYgMI4FItXPTs5DK213rypx0cxiBvYCNdQhZQZvTaBEl2rXO2Az3kNKFaV9lNCF/fgLccd2XcfQ9BPkgq39RCnbu+s9xfjtjmnN74EXJK2P7GOkMeYgaa+AueS+r/zxw==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAvb7UVeT+z/MWh5mCx8HKes5dtRCzFK1OQR8N64SZFpcR+ccW
+kxmg/RPc6iZi4wViwa19IqQOISgWRt9q8vsN9Uwr25PQ8zqNcFapNEb9TeY0q5i3
+QxaHvPn+LTKEgQOgq1a+5LyBVJhNjYCzNKqztS6lKW5lbJOJ4VB36B4Fz1l9weBL
+Ldi/LZdC9Nbe4owpyZng88j+k8OFtPcLEwyErpAZjRlbzQaisB5IMMSnnZfC2Ifv
+uZqFvDE5UXt8vHQIVB8lrVu27Gu3osSOCVvjSsU4flZvl71cgalWN9bg97DAXE5S
+masl+K1UFFwClIz3B9f2QY1HnOs2iyoKATJkeQIDAQABAoIBAALKwXsvKI0s3eC7
+nYAlhJcaZvchJEb9a4p6Ttl5dOdgie6FeaGtpSJfR7hmeJWmD17C5s42CCpsqFAu
+lfdT4AEg1WJgpLZGS1Rs9lT28REE4NCHlfCavZzQEMA4MuMEfcNSvlSUKQ3ykwFB
+6tJgnH/OIBkweNzl31aOr192Wo45djSyZVPBPb/iIB+W+KW4bSPS/ApqrSXtDqUz
+i3KCBx2Y58MU32OPyA7P5IRU/7R/q528DtRwltw1Z4COUCziwT7vILgZjFolCnOg
+ClqTobggni9XOSpm1+kpUp/L/MSNrXQP9JgGdgKmP5+oHtnCxLuBfOLlRX9s9ydf
+bni10skCgYEA1irvUfkOyy+O1Q1aHygv6OiB86svRP7sq0BLu2PalpoLaPFdmDzW
+GQi9/E9PTEY5v2KnEf1L9DNqxDlfWYCVHUXnP+dP5jTsqymVkmX13EC4zvNsfSi/
+8e6cZsQGnOwX4q6NgPe+L8cby9/A96T3PSWPhdYpjy/zjRglEYJUpp0CgYEA4s6z
+6QDkjKmtzUq8Xe9aItsor+KlLHrm5SDS4IrvYLpORrtw8PmlbtudSVHOn/RSFpGK
+6O/O4cdaznbbwIe9o43zYI1MZbQiig4xbcRsEJlCSko/GSiBsB/7Ini5xAy+tpoX
+mDnMPSKk2UTWFhYWJDOEmxP1at4oOIwSrvcLII0CgYEAr8RI6UO4KnV7icsNfaij
+uUio7mw9vShi4CFChiZrTVJbruL4Z2r2Y1FTavFEKVsxJas3ZoI1hdN0+loDsRbg
+SkgGg+G5JzukSM02HhJj90F+6wnIred1sH6eCZEzxDHXYIjVRVUN13RXkbivTA8t
+gheDdNnQ/dziy5dXRMlr49kCgYEAzBdOo2PPRZhGMk6HFEwWovjtMuBS26S4cwRH
+XhEHeNYNK+7toZozuH7cmSaJNTxoRbCv/A4W7uoyF0mzUxuSlUNd9ssPLRGcZviA
+mBLBX2pZ0XngL6ZYlQEiPhG+r+D8GFqu0qdn1rd++ZfMwdEcGXVWZSnflEvWi5PY
+GCNrmt0CgYA7BawPSys8hiRonXwBGCqsHuhaZfKsF6QNdhB8y6XzYLpDA/zdiDuF
+9u5pt5/nUmmlklpVstTQ9Y8YGp5Yib7XdA/xs0JFnpzKJe/kyLyDTd1ZnuFrIrL7
+HGMTvjtAG84IRvA3MzzSBapYCrkTOuKhmPwoAz9c2bskvXZSIeLwhQ==
+-----END RSA PRIVATE KEY-----
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: RSA
+Mensagem criptografada: ru6cqIXid+aIGumYGdorTvYHZQF5UNjWAhve+pLSp50PE0Z76rQTEzseBNa3y0CkG+ZQ/XH5tysvOJwC0js/z9c/ZlAoC1bzeseZbFhHY9ldPEweIMlcFshhCT3FXW4qiPD3dx0xXQUVNNd5KdgTi0zT1lRlqtVlxFk+MRG1J9PI3mt3pv5AMegO5MJ1vELLPCHNlx16hxM5ZSnHJvedGecYgMI4FItXPTs5DK213rypx0cxiBvYCNdQhZQZvTaBEl2rXO2Az3kNKFaV9lNCF/fgLccd2XcfQ9BPkgq39RCnbu+s9xfjtjmnN74EXJK2P7GOkMeYgaa+AueS+r/zxw==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAvb7UVeT+z/MWh5mCx8HKes5dtRCzFK1OQR8N64SZFpcR+ccW
+kxmg/RPc6iZi4wViwa19IqQOISgWRt9q8vsN9Uwr25PQ8zqNcFapNEb9TeY0q5i3
+QxaHvPn+LTKEgQOgq1a+5LyBVJhNjYCzNKqztS6lKW5lbJOJ4VB36B4Fz1l9weBL
+Ldi/LZdC9Nbe4owpyZng88j+k8OFtPcLEwyErpAZjRlbzQaisB5IMMSnnZfC2Ifv
+uZqFvDE5UXt8vHQIVB8lrVu27Gu3osSOCVvjSsU4flZvl71cgalWN9bg97DAXE5S
+masl+K1UFFwClIz3B9f2QY1HnOs2iyoKATJkeQIDAQABAoIBAALKwXsvKI0s3eC7
+nYAlhJcaZvchJEb9a4p6Ttl5dOdgie6FeaGtpSJfR7hmeJWmD17C5s42CCpsqFAu
+lfdT4AEg1WJgpLZGS1Rs9lT28REE4NCHlfCavZzQEMA4MuMEfcNSvlSUKQ3ykwFB
+6tJgnH/OIBkweNzl31aOr192Wo45djSyZVPBPb/iIB+W+KW4bSPS/ApqrSXtDqUz
+i3KCBx2Y58MU32OPyA7P5IRU/7R/q528DtRwltw1Z4COUCziwT7vILgZjFolCnOg
+ClqTobggni9XOSpm1+kpUp/L/MSNrXQP9JgGdgKmP5+oHtnCxLuBfOLlRX9s9ydf
+bni10skCgYEA1irvUfkOyy+O1Q1aHygv6OiB86svRP7sq0BLu2PalpoLaPFdmDzW
+GQi9/E9PTEY5v2KnEf1L9DNqxDlfWYCVHUXnP+dP5jTsqymVkmX13EC4zvNsfSi/
+8e6cZsQGnOwX4q6NgPe+L8cby9/A96T3PSWPhdYpjy/zjRglEYJUpp0CgYEA4s6z
+6QDkjKmtzUq8Xe9aItsor+KlLHrm5SDS4IrvYLpORrtw8PmlbtudSVHOn/RSFpGK
+6O/O4cdaznbbwIe9o43zYI1MZbQiig4xbcRsEJlCSko/GSiBsB/7Ini5xAy+tpoX
+mDnMPSKk2UTWFhYWJDOEmxP1at4oOIwSrvcLII0CgYEAr8RI6UO4KnV7icsNfaij
+uUio7mw9vShi4CFChiZrTVJbruL4Z2r2Y1FTavFEKVsxJas3ZoI1hdN0+loDsRbg
+SkgGg+G5JzukSM02HhJj90F+6wnIred1sH6eCZEzxDHXYIjVRVUN13RXkbivTA8t
+gheDdNnQ/dziy5dXRMlr49kCgYEAzBdOo2PPRZhGMk6HFEwWovjtMuBS26S4cwRH
+XhEHeNYNK+7toZozuH7cmSaJNTxoRbCv/A4W7uoyF0mzUxuSlUNd9ssPLRGcZviA
+mBLBX2pZ0XngL6ZYlQEiPhG+r+D8GFqu0qdn1rd++ZfMwdEcGXVWZSnflEvWi5PY
+GCNrmt0CgYA7BawPSys8hiRonXwBGCqsHuhaZfKsF6QNdhB8y6XzYLpDA/zdiDuF
+9u5pt5/nUmmlklpVstTQ9Y8YGp5Yib7XdA/xs0JFnpzKJe/kyLyDTd1ZnuFrIrL7
+HGMTvjtAG84IRvA3MzzSBapYCrkTOuKhmPwoAz9c2bskvXZSIeLwhQ==
+-----END RSA PRIVATE KEY-----
+Mensagem descriptografada: mamae
+Mensagem original esperada: mamae
+==========================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: DES
+Mensagem original: tetes
+Mensagem criptografada: mjhol40VhGc=
+Chave usada: 3XXNPPsCBKk=
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: DES
+Mensagem criptografada: mjhol40VhGc=
+Chave usada: 3XXNPPsCBKk=
+Mensagem descriptografada: tetes
+Mensagem original esperada: tetes
+==========================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: RSA
+Mensagem original: mamae
+Mensagem criptografada: pHr5JM626veUeDWCzqJhecNjC15ix9lVFxTCsicmv1nMtvFsKxlDStmUFfUDI7VHS5JMbHpUsakfUDr0cy7DPFGZbbSobe2qV2Z0RfBJfXKkH15NLk7DIGut4jRn+XR0DB56VnJiv3lD6o+nyqb6OpJ0LuQ365s31Spm0Y0Gw2wZAtzhJ8ouFUoWzDCQcxy/zRvOmWgGEo/YQPo10PIa4t+/ez/wx02otTrVs9mEKq+2cXsPAn0qw4Oo4kPALrHJH2Qnn2waPY1hxR7XP1fk06jIqG8bSbMl9GTJBfPj0MP+2R7fB/HM/YCIAUp4JDIIHC22Y8clC1MM0mxQ12YJtA==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEA0+10QW4GRDenoq74xD+7d45e/M/30akGL35QjnP/mRsROAAQ
+9mbGqLPZDxAVznMKt3c2aBlwm2je/acY/icu84i4ll4OY/M5kzWInouSCuNfhsEt
+TQ3fSj80E/Ov2ytpv9sHuh2hEzaMkRjA18Tft9zBbt0vY3N6US1tnqgYyyoRcYS0
+32BsLJJk+If+XC7CsBr+91LVkfJRi0VbvrpWPC09KpsGR1ayCRSq2mWuD3Ry3T/y
+n3eogMf1XkXa50IM7iqjaeFZ1eA5yyogPjdFymKcrVm474AIfr98p0eFZz0OvsGj
+5olXtLXF1C+HTQx9PJLsGXri87nwRgHf1Y2wCQIDAQABAoIBAC0PLnnv6QStmaap
+Ear2SwdpPbB+jlglWjOUZY/YQYbd3qwbtX+STBhX/uVpO920j5mBDxAUoqDkbA8d
+7V4yWhT9I5QTBPfC4eG3Duh4z/EhNXEbFyTsN2bbp9i7Jg+RPC+G5C5x+MqzPTFn
+hC8MRK3c0cLe4+G/Dol+gXFrl7PwR21u7+96NKdqFEB7wAZLJeGHM5QEuiChdy/z
+SM/g8V6cve23ikijQKYoxWUieQ0t/Zx3CIqBPaUbNwCzcU46IyVPRdHtIS+Z+oaB
+geOcsBTseZi5XgiCEAFd7+0PhTC65jpr6O6UY5TNDDaWqFew0s/Rl4xgRLsDJ9bX
+n2OLC5UCgYEA3TF7xRDgLYaTsrv8KIETckuqavmp7joyk+k7T5HjMvdiF5sA0ZmU
+7QUK7+VSIn6hrb2RaHsAVXk2hgdKxaYK2sWEa3iVdMtBILM/7S+Nd47kBik+lmoz
+9EYOHGxiZBurnzDMvpsajQGgCqoJHVXBLTWuNyPEp1rjebZX1DpCiUUCgYEA9Ua2
+BZC0Qzri8AxGFgA7u5lRRAJIrqiZDE7Yxg0D8Ug3xmY72g47cSrnyqhuSSALyWjr
+SoYsIlnmcweM63lFBfA4oI7pJv9PfDhFnHprEiNJ0GOGH8DfCCEfZoEPBdVpW6bZ
+H9+8HdfXHU9Yto/HWeGCFXbClzHT+yW33bN9nfUCgYAFYGOKybs5QBEtAgbCEUkg
+uRgeW4023jFGiR/I8lncbkjzG/BsJ9iH3lyCskdJ0VwqtfXn3T2H1ldt8JVvsnaH
+FNAAMMEpQpuFqPW/1S0SH+YJBE2iKFi08lL7e+L0XfvQ9cW0SF7f2I9EUxe/n8r/
+R1PBwVvRWZM37Se7X+MoJQKBgGmhSkKbTwalFZbLsmNHNnJUVOs1EJgng8IJMtIY
+SNpgf6Sx4pTGDFNwZuKgJt7XLjxPMwWlQtyIWvavCcFfOJqWGc0Lvt1Mlq6ojVIW
+ZoYpLGDSe7CxH1wg56T9b7rTbcxKzrcrY5h2m+3DfjEhOnk65QrZWnRCwUgntkeE
+RVUBAoGAFLzxoS0xuYqdk0m5+WGlV7NhV5o/xgjAv4jpHLpZOge4PZ0JAQDmWR9u
+3AGoMs+p7kJefQOj9EjBl1SLnu4MOusXRzP7mkJqE+VsjIwnVC/K2FLBd38QNODi
+IRgWEjS/GoCEL+sDsqdiVxrHlRdi8SoV2KvJd2xOzuLrtfC/QFo=
+-----END RSA PRIVATE KEY-----
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: RSA
+Mensagem criptografada: pHr5JM626veUeDWCzqJhecNjC15ix9lVFxTCsicmv1nMtvFsKxlDStmUFfUDI7VHS5JMbHpUsakfUDr0cy7DPFGZbbSobe2qV2Z0RfBJfXKkH15NLk7DIGut4jRn+XR0DB56VnJiv3lD6o+nyqb6OpJ0LuQ365s31Spm0Y0Gw2wZAtzhJ8ouFUoWzDCQcxy/zRvOmWgGEo/YQPo10PIa4t+/ez/wx02otTrVs9mEKq+2cXsPAn0qw4Oo4kPALrHJH2Qnn2waPY1hxR7XP1fk06jIqG8bSbMl9GTJBfPj0MP+2R7fB/HM/YCIAUp4JDIIHC22Y8clC1MM0mxQ12YJtA==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEA0+10QW4GRDenoq74xD+7d45e/M/30akGL35QjnP/mRsROAAQ
+9mbGqLPZDxAVznMKt3c2aBlwm2je/acY/icu84i4ll4OY/M5kzWInouSCuNfhsEt
+TQ3fSj80E/Ov2ytpv9sHuh2hEzaMkRjA18Tft9zBbt0vY3N6US1tnqgYyyoRcYS0
+32BsLJJk+If+XC7CsBr+91LVkfJRi0VbvrpWPC09KpsGR1ayCRSq2mWuD3Ry3T/y
+n3eogMf1XkXa50IM7iqjaeFZ1eA5yyogPjdFymKcrVm474AIfr98p0eFZz0OvsGj
+5olXtLXF1C+HTQx9PJLsGXri87nwRgHf1Y2wCQIDAQABAoIBAC0PLnnv6QStmaap
+Ear2SwdpPbB+jlglWjOUZY/YQYbd3qwbtX+STBhX/uVpO920j5mBDxAUoqDkbA8d
+7V4yWhT9I5QTBPfC4eG3Duh4z/EhNXEbFyTsN2bbp9i7Jg+RPC+G5C5x+MqzPTFn
+hC8MRK3c0cLe4+G/Dol+gXFrl7PwR21u7+96NKdqFEB7wAZLJeGHM5QEuiChdy/z
+SM/g8V6cve23ikijQKYoxWUieQ0t/Zx3CIqBPaUbNwCzcU46IyVPRdHtIS+Z+oaB
+geOcsBTseZi5XgiCEAFd7+0PhTC65jpr6O6UY5TNDDaWqFew0s/Rl4xgRLsDJ9bX
+n2OLC5UCgYEA3TF7xRDgLYaTsrv8KIETckuqavmp7joyk+k7T5HjMvdiF5sA0ZmU
+7QUK7+VSIn6hrb2RaHsAVXk2hgdKxaYK2sWEa3iVdMtBILM/7S+Nd47kBik+lmoz
+9EYOHGxiZBurnzDMvpsajQGgCqoJHVXBLTWuNyPEp1rjebZX1DpCiUUCgYEA9Ua2
+BZC0Qzri8AxGFgA7u5lRRAJIrqiZDE7Yxg0D8Ug3xmY72g47cSrnyqhuSSALyWjr
+SoYsIlnmcweM63lFBfA4oI7pJv9PfDhFnHprEiNJ0GOGH8DfCCEfZoEPBdVpW6bZ
+H9+8HdfXHU9Yto/HWeGCFXbClzHT+yW33bN9nfUCgYAFYGOKybs5QBEtAgbCEUkg
+uRgeW4023jFGiR/I8lncbkjzG/BsJ9iH3lyCskdJ0VwqtfXn3T2H1ldt8JVvsnaH
+FNAAMMEpQpuFqPW/1S0SH+YJBE2iKFi08lL7e+L0XfvQ9cW0SF7f2I9EUxe/n8r/
+R1PBwVvRWZM37Se7X+MoJQKBgGmhSkKbTwalFZbLsmNHNnJUVOs1EJgng8IJMtIY
+SNpgf6Sx4pTGDFNwZuKgJt7XLjxPMwWlQtyIWvavCcFfOJqWGc0Lvt1Mlq6ojVIW
+ZoYpLGDSe7CxH1wg56T9b7rTbcxKzrcrY5h2m+3DfjEhOnk65QrZWnRCwUgntkeE
+RVUBAoGAFLzxoS0xuYqdk0m5+WGlV7NhV5o/xgjAv4jpHLpZOge4PZ0JAQDmWR9u
+3AGoMs+p7kJefQOj9EjBl1SLnu4MOusXRzP7mkJqE+VsjIwnVC/K2FLBd38QNODi
+IRgWEjS/GoCEL+sDsqdiVxrHlRdi8SoV2KvJd2xOzuLrtfC/QFo=
+-----END RSA PRIVATE KEY-----
+Mensagem descriptografada: mamae
+Mensagem original esperada: mamae
+==========================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: DES
+Mensagem original: vini
+Mensagem criptografada: Pvc2YbHl0Pg=
+Chave usada: J4VnSpPj/dc=
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: DES
+Mensagem criptografada: Pvc2YbHl0Pg=
+Chave usada: J4VnSpPj/dc=
+Mensagem descriptografada: vini
+Mensagem original esperada: vini
+==========================================
+
+======== NOVA MENSAGEM CRIPTOGRAFADA ========
+Algoritmo: RSA
+Mensagem original: vini
+Mensagem criptografada: m/ZisZe4ZlrkZZe+EN9k8mSH+5IFmVY3dTDNTqZwtk2A9MS2fj2Q0lTOHEDDL9yQuGdmF/x8BZVfp1mgYtHgOpmL1VUoB/CWYWQjMGuq/Onryi8GZqkLR/rzKZQQXrQHa67TKNdszuyJly11j6oqQULfB48dvjN+uXQk30NtkY+JuYz2NyobDk2MreZAkFvCLxcyaeXn/2OnJ6Skfkd6/9RwDl1lHV+347fYMxWjCqzxZU9+LdbuYzQGvzo4CoIjNqYC2CeyWjSm6Qekp2K5cTKTJIj/deafFkw92NUvJGOdKdZwPLxwkl+gxGP+ohZZmqIrtQNvHLBEn7U9xiOafQ==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEAtDfTgzfXK0VbDOZxxjSN52b0kJwb4k5w5AKZ3hwQyxbRjuY6
+htYMx1GlPCjnK2UWtYSMUn5V66oUAJCT0VbsjS8rQwjtldLQOeDMUEieb++6O8Wt
+kfEUiQoSrMhzMA8lm9z2YiMcqVPPtP4TIIMQHPD0HXvuKhtM3VrVLbKFDdZBrV5w
+N5ObzrqvSEMhS6AHIrfO1jPJ8XULFrD/X9/dMDu1n8JUq1kYtzmtUpFEArm3nd6j
+tivm4ZMDW5WLGfGD6TsVynaNVX1Z/2ApOaR6twBq4fGGUQRsxEtZrOniFywGS+77
+YDOr43SKycNIH/UeJ1FZ7otruRwTboEeb2wBPwIDAQABAoIBAESxbNV88O7E8nZB
+1odC2/4iv8DpSDWkSaKXnTfMwdfvnDQYbKGdsGQ/Kjj6rFbdouDQo74D+tMn0pT+
+huGJ/QO5wYc9PXZY01bkaWyGqaGoIngLGuRgnL+5j7G9fC6K735wJJf2o0OltyvZ
+lsfTPU6Sx7H/XaI+IrfTGiPfgpjpeN0jED6xomXuRB3CBedd9+5HTS2EaICa4AoV
+Xut5KFLOIPijQxAVL1lVZSHMpjh/oROImGVYun2w32K0vmi1T6HECsWsd3tUvRt/
+/38wkZQDTCmRCtK7k+cItxONjyeFOgCrySP0zcy87R8/Lqesl8SOwMcj0KtfHERm
+IT0jK+0CgYEAzc/fY7XkWis5DFCcj3DU03yGHjLx+/B0XeuA8lxSHJvNloiLUZXy
+TT5VEFpF+i2VG8l01YNp0otFyvRGOSSg0x5Wu1EZt0gGdlsl5X//Fg/Y/YbgSYn4
+wFcQV2uh2i0vmNc+Ex7LC/qKW4oGd3uKcok1cKvt1L7XRyf3Z158CIsCgYEA4Co2
+qIJXeezVj+Kn/hhYMhq2HsEX3AXltmW+4yhVPeXUmTqJjr1eZbRQQikSWGDLQCT3
+RP0NX4RopKb9UyR0Jnl+212yG6ymPE9RF4ydn1j1Pa73LtpRZkXck9nChza5Z8t7
+xKln6Ofl3dEPrRk7JApNUDUg1neWrZE8k7kkzJ0CgYBrtyv3h68n8g89fsMx35/D
+wByBmbBEZ6i/rw4hyme/SVvkOTqRTKUwADuM/3I4abrsfBeF1+1+oB27BvXp2l3B
+oNNL3jpTToLzVukSoFblOQ4cQocIdgmWwPpwhoiDI7sRhzWZ1Df44PugxTB1QFdJ
+cr5hZdpnyinpt+UoWK8Z2QKBgAW5zk+blLRukj3sojHhWU9eU0yRzhQ2qllwW+Hd
+g9/i4P1Q+3aD68dZRbuK5QcQ4eAvkYlXlWHdNfcOtOXMxpK9A7qCuCvwywY7WGzr
+kJMjaJA8yd+OgAnGuw2jwE5H3ZCDKBQr55WRZtO1pVrcjCAtizADS2VvBJBGZ2+2
+iPQZAoGANVgV65IcJUzZxB1DtQZuhZSjXdbEsVd1NoAf3/uHcBts3W8OmIcvKvHf
+vN3zEIaDGlzFj2Ee0CvNKjJJy62c4sKX0ZxbqHWXCxhsWuzl3ueq3yLZ9k8YyPux
+Mpz+kgKFmgJDhxPDeufNV05JVU6iy9NIeWl2lbOAfmBJkLVjjMM=
+-----END RSA PRIVATE KEY-----
+=============================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: RSA
+Mensagem criptografada: m/ZisZe4ZlrkZZe+EN9k8mSH+5IFmVY3dTDNTqZwtk2A9MS2fj2Q0lTOHEDDL9yQuGdmF/x8BZVfp1mgYtHgOpmL1VUoB/CWYWQjMGuq/Onryi8GZqkLR/rzKZQQXrQHa67TKNdszuyJly11j6oqQULfB48dvjN+uXQk30NtkY+JuYz2NyobDk2MreZAkFvCLxcyaeXn/2OnJ6Skfkd6/9RwDl1lHV+347fYMxWjCqzxZU9+LdbuYzQGvzo4CoIjNqYC2CeyWjSm6Qekp2K5cTKTJIj/deafFkw92NUvJGOdKdZwPLxwkl+gxGP+ohZZmqIrtQNvHLBEn7U9xiOafQ==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEAtDfTgzfXK0VbDOZxxjSN52b0kJwb4k5w5AKZ3hwQyxbRjuY6
+htYMx1GlPCjnK2UWtYSMUn5V66oUAJCT0VbsjS8rQwjtldLQOeDMUEieb++6O8Wt
+kfEUiQoSrMhzMA8lm9z2YiMcqVPPtP4TIIMQHPD0HXvuKhtM3VrVLbKFDdZBrV5w
+N5ObzrqvSEMhS6AHIrfO1jPJ8XULFrD/X9/dMDu1n8JUq1kYtzmtUpFEArm3nd6j
+tivm4ZMDW5WLGfGD6TsVynaNVX1Z/2ApOaR6twBq4fGGUQRsxEtZrOniFywGS+77
+YDOr43SKycNIH/UeJ1FZ7otruRwTboEeb2wBPwIDAQABAoIBAESxbNV88O7E8nZB
+1odC2/4iv8DpSDWkSaKXnTfMwdfvnDQYbKGdsGQ/Kjj6rFbdouDQo74D+tMn0pT+
+huGJ/QO5wYc9PXZY01bkaWyGqaGoIngLGuRgnL+5j7G9fC6K735wJJf2o0OltyvZ
+lsfTPU6Sx7H/XaI+IrfTGiPfgpjpeN0jED6xomXuRB3CBedd9+5HTS2EaICa4AoV
+Xut5KFLOIPijQxAVL1lVZSHMpjh/oROImGVYun2w32K0vmi1T6HECsWsd3tUvRt/
+/38wkZQDTCmRCtK7k+cItxONjyeFOgCrySP0zcy87R8/Lqesl8SOwMcj0KtfHERm
+IT0jK+0CgYEAzc/fY7XkWis5DFCcj3DU03yGHjLx+/B0XeuA8lxSHJvNloiLUZXy
+TT5VEFpF+i2VG8l01YNp0otFyvRGOSSg0x5Wu1EZt0gGdlsl5X//Fg/Y/YbgSYn4
+wFcQV2uh2i0vmNc+Ex7LC/qKW4oGd3uKcok1cKvt1L7XRyf3Z158CIsCgYEA4Co2
+qIJXeezVj+Kn/hhYMhq2HsEX3AXltmW+4yhVPeXUmTqJjr1eZbRQQikSWGDLQCT3
+RP0NX4RopKb9UyR0Jnl+212yG6ymPE9RF4ydn1j1Pa73LtpRZkXck9nChza5Z8t7
+xKln6Ofl3dEPrRk7JApNUDUg1neWrZE8k7kkzJ0CgYBrtyv3h68n8g89fsMx35/D
+wByBmbBEZ6i/rw4hyme/SVvkOTqRTKUwADuM/3I4abrsfBeF1+1+oB27BvXp2l3B
+oNNL3jpTToLzVukSoFblOQ4cQocIdgmWwPpwhoiDI7sRhzWZ1Df44PugxTB1QFdJ
+cr5hZdpnyinpt+UoWK8Z2QKBgAW5zk+blLRukj3sojHhWU9eU0yRzhQ2qllwW+Hd
+g9/i4P1Q+3aD68dZRbuK5QcQ4eAvkYlXlWHdNfcOtOXMxpK9A7qCuCvwywY7WGzr
+kJMjaJA8yd+OgAnGuw2jwE5H3ZCDKBQr55WRZtO1pVrcjCAtizADS2VvBJBGZ2+2
+iPQZAoGANVgV65IcJUzZxB1DtQZuhZSjXdbEsVd1NoAf3/uHcBts3W8OmIcvKvHf
+vN3zEIaDGlzFj2Ee0CvNKjJJy62c4sKX0ZxbqHWXCxhsWuzl3ueq3yLZ9k8YyPux
+Mpz+kgKFmgJDhxPDeufNV05JVU6iy9NIeWl2lbOAfmBJkLVjjMM=
+-----END RSA PRIVATE KEY-----
+Mensagem descriptografada: vini
+Mensagem original esperada: vini
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: DES
+Mensagem criptografada: aZhpAguhhlU=
+Chave usada: rXSsqkCXd/c=
+Mensagem descriptografada: vini
+Mensagem original esperada: vini
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: AES
+Mensagem criptografada: Ydxluct3V3CZz6C/4NVDTw==
+Chave usada: qMY4EJtnavkIt6pxiSX7Lw==
+Mensagem descriptografada: nome
+Mensagem original esperada: nome
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: RSA
+Mensagem criptografada: JIVqPFQOb3Dd2gagAOhEdppanXFPA4xtVvyo58fxEcJ0fmtwa/T4LUpbKZoKGtFC+J9VEAB7tCwilZX2f+kA8uj74Jr8PFL7AmG/IrWXKWsdVWnWhWNZDHu9UtiOhOCgaS9/p/pPP5v76YDJuJ4j7cU1aiOy5MZEpvvL4VZz/McQkTyl/8uX5cIOvxZ4VFjZzUt01PCW4rsS2n6SxtvorzGYTWUjP8Zp2Z5HnZ5aWRbK2XST9GJr0PcD79Dy4mJYmXtsxwGeTvAzeaZ6zbyXlmJgJDu95IOk3E+MJS5a/vBu/5vaXTr33VX3R0Y4N/HwRIlhhLDhnQDZMuhz+sol/w==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEA3RO6VLoupqrM5R28UqkQLHOjsmNfrI9zOuEVtqNH3B+1725k
+N3c8g9Ss/4zeEmGBErpvHVmLT/i7hElgbs5FlqIxVbu8SrOJCn2VCt23+tWY2hLe
+LOTYcAD+2wsDGk0VUqVQczs+eEECrGI+a6BDjIl9d5HPmzyhyY9q8kwOVC3DPXkP
+Q++DWSF0gNnv+A2Pf4zXHPVvIpoQaxRWgs7C3iJTvlCzezXnYlJvwsacM727Fk0X
+z0pcJF++ia6TFT2zY3dijyYkXqutI1IxQquUL4Y5okzdsJ+Axwb9zehdFhpaQfZR
+iwIPKwcbN0Dk4O09hI4UxtDC2sO/b/hTqZr/qQIDAQABAoIBAAwBAriQBXFyS77T
+DwMz/9dSDhzlDXBat6iGST4J/qBirmfKSDHEzSnhVeVoWjSIS9BfBCKFVq2odVIZ
+A93wYFHuC5y6nV43AmVp7TpSUKeTioGozZyFboUiYLQ3FFuMvPAoXsZq/Jjd+s2u
+ZfJFGPXcD057QdkNgUFnAqkWXR7P5XR2Bx/dJRICLqx/Hzs5WRBG4VMYkDTMbvR8
+xzuZXV0DTFDdMludVxFGwz3pQ6TSdl8OOBeTrDXEhrizvMZsH9wNe63VtiDXYmNW
+GSL/zVPzaLL27TDpjrDfZdriCErisCH5AiLCxhOmkbsDiHpo7whOce/8dE0bOfUZ
+8C813gECgYEA5XtxNpwJfPtJGLBEEF5Ph7k1Z4ky/RdyrquVFUCTLMEbAHEu3uKK
+krKET7+T7qiOFXiazjXYiir5L+1/e1VHhSQIG4sBztXMDNoQyoMD028vMqkEoxe+
+YyR94JA0JH62Cdj2EW+wy05aWg6N+2ktQXqxRXSzMlzTcnHUB+HoXCkCgYEA9p+k
+9UKNE0TT4p5HHkWQ+ZfxqzevEl9sB906SL/VbwXHvgyZxnALbhv61a9+rdNDRdN3
+JFAeRtiBwFco+r8R0kuRZX788wtfYDUTwdF3BpZYfcGpxNehJz51yCa6JL3hog0N
+DEpNEXkifls30o8QokaLwFyy0fQQGAVhGeDx94ECgYByvitYk+LGpFrjRldyG8YG
+ZhwG3fopxIyqO876ZmRwj0myCeXWuk1xlmNEANW2En+gysIU86WHSH96cHU6tORi
+9SY8p1/LDOnPT0XwDFxgXwqpeQuBhQDET93E6DW6PcVF3T8EbuVmcpIIz5g8qlVf
+lTqIMRbcyr9LTREos9NcKQKBgQDb12uAhZakOpJ2TIkw3upg06VF7xlM02rFh9tQ
+xlBH62smaq0ZSv+lY6OxoALYiJ5LPDnUUObsWEsxXYDWJESKpXoyc4SgUt7uL+Iw
+v7vOT28Kivv+0AiDpxXvGTaNUgY0IlYjQoh4rvaklEOqmoVFYoVpMDjnFxzRjNoF
+65NGAQKBgBG7J0g6BRvsIlYgLPJ2BXbJpbANmJcDlzWGXRNzpth2WrQ2yqQqtQEc
+YgjdkP8O5jJznEe4rEnLJ5Zv5NG2UZu1hvMy3dRotvPv836Yxrvn13VUAwVnJVOJ
+0j9m/3R9mEXgzMAmnEKw3DB/8z435wdh0exs67ntMmPnfTFB2PLR
+-----END RSA PRIVATE KEY-----
+Mensagem descriptografada: mamae
+Mensagem original esperada: mamae
+==========================================
+
