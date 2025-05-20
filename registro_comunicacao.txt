@@ -323,3 +323,69 @@ Mensagem descriptografada: mamae
 Mensagem original esperada: mamae
 ==========================================
 
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: DES
+Mensagem criptografada: 8fcIvSNi4hU=
+Chave usada: 0zuuHwL3z6I=
+Mensagem descriptografada: Vini
+Mensagem original esperada: Vini
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: AES
+Mensagem criptografada: thf+eQ+L0l3kCKb2Fe3nag==
+Chave usada: S9+TFKEevf6ThL/0rio1zw==
+Mensagem descriptografada: Vini
+Mensagem original esperada: Vini
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: DES
+Mensagem criptografada: 8cb9e35a598f01966813f77a91c961a3226b989427c33193
+Chave usada: 60aae3522dfd9745
+Mensagem descriptografada: Manu Preguiçosa
+Mensagem original esperada: Manu Preguiçosa
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: RSA
+Mensagem criptografada: lom86VvJ+s0RnYCcNvR9RV4Tk0f+ZFx1xx3RjTzlwU1JDRTZgrU5tYRvnmTWPeuCpO0WZSFSc4+ID7XTFW1yYy7jpqwz6GiPirRDQVwsZfAkDejpO2TrbtuEs0W3ZHCoRg8P0byWk52Fa6K3RYk9rAxKgKq67ChgX1VXcYsXA4Rd97/fC7Qs14TJBAjQb385+lpqiCUde0rVDZn0GAWHQ/iCLFHm4LwL/KS6kyW9QWa4Xd0bxL79lVoN/Qg0fHA87LSD/TTI32VJWLxsBI2LM3smZA4SgBmfWq2acsfDeVLsQ25p7th0MVfQTuRdzCF/iS0PQRBLjOlfcvgnv9bGrg==
+Chave usada: -----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAstWRHAJVf5nieSaFYUNduLZ5mLWf5nRSfd7BwX+lo/SMtoji
+KPrkHLO7bDnh3Yr1CXArJz3bfHSXZKVSFEoOhj4XaNYU0N8Zex8GZrQjbnJ+OaJl
+vaSrGm5tlmakuKZHdx+M1O5yqAMS/eiGbQLkICh8zci/L8iAa3T759t9ttsEDK9W
+rbHnfD9XGM2jvD/xgAe6NmH2N1TkyLFsP87YZlkYu4K7xgaVlswmeKzB4BQhTc1F
+nAuJLzX3beEckscxYZ9+jC3/GsZu2rgCqBcW1Ppp7gxPKkrvFsVsjqeEve7zA0I0
+uyEaKl6kINZQQjlFzDD6twD9Rz3DqmQ6jPdl8QIDAQABAoIBAAgEQTDXZ/Fu5V3s
+nKO2CzWptGdkk5Tsl6VofsNc+gC7Xd1xjcCBiAfuBKj+1UGtpiYJ/wfkzXnVmNMc
+WBgXE8dFHEkzo5OTagcrZl7klLFcSjfs2uZhQyxNpqBMh0t3D2gRztSIFeAIjJQ7
+lV8TTJpRG6XL6cogu6UAMFSonF490vi2n0iIdcV7eYJkaXsvIWk2bsOsplMrU8+H
+f2/Qp0tZyygkSK2ja/rpfIJipzJ6Y2I83vTw3xNvoh4Qjb2OCcQjuieLl9cWCSh3
+rCTlKRc1U5v3eO3HI/b1Z42WIik9Z5JIhv0jXpiUVigekxtOgLgs8yBZqBw80+hu
+4yNJL4sCgYEAzzjnJQ76FRulsaBpCb9RcJfpKFNrNPVGjnmIlOINX5zA+WdtJsug
+GQw35ftJ7T7Y8KB72b7MXyvxDF8DI9k2vfP7y1qlgkIroJ6J2HEHkSo9EqsXIs5z
+A69s/jJgPMTZHeURd8FnbbEZqgs4kFSqVzhVLUMMm2OlgD/DPBb6FIsCgYEA3O4E
+aD4eI9t9BZxb9Ox7T9xxHyEwS7kltOlAqYhqvpIqh6O4VG3saKxvgCfyU65/ecLc
+3tThv+TpfXpeAqY1quflZ/9viEZWjfDR3/sy1/7om1XNOqgkZFgUFYIq7MOTgOG1
+EGz+WRJSDmREoV31SfxD9yqaOdfk/bnimn9QcvMCgYAOAQ117q4t8QFgoLOYigpp
+7oo+RGzxVkYfaM03KpO2y3QrJrc0sPwv1SiN7U6QrvegQ2g7Te6n2+Ndb6pZqNtP
+OQbiNk0LIYerQiuUqgbV46He+hsFKiiRrjBSeXsRgEggAhQNIM/plNdkK3/2GRKt
+9EulVGussK5FnYmHLRJXgwKBgFNcG52ZkpXFA29Sh//qGr0PWD9+rlJkEa4pNJTD
+PEObsyBqzepNb54vMgMRD4YzmTXAKMaLXIKjRNZrjX1CaY2K4ixTXSn2IEJ+UzJH
+/e8x52J1BXLUbqbN9QYIj1m2kblXcJI6Dd5d40g63QpmAV9hJ+Pi1z5sD6MMuEvD
+Lf+xAoGBAIM1EmAZ2eNU45RrMn0G+UXrNR4LbqYEqum1AG2uOIV0vKWJh0auCh6B
+Vxmu08AZLckU0fyV3A8Bu5bZAQtvDK+GkHuBHOvK49BvmW0G81m4QmDOR+N/3AIi
+GF17SOwsi9iBxPUCiQFu8ri8ZN+Kj8kOrpQbFI6N1gwQEz8mqmbR
+-----END RSA PRIVATE KEY-----
+Mensagem descriptografada: Manu Preguiçosa
+Mensagem original esperada: Manu Preguiçosa
+==========================================
+
+======== DESCRIPTOGRAFIA RECEBIDA ========
+Algoritmo: AES
+Mensagem criptografada: 984bcdace78bf5576c876380281119a56687647fcec7cd25b65f8de6818055e3
+Chave usada: 15fb349086c8f89c98097d57fd32139a
+Mensagem descriptografada: Manu Preguiçosa
+Mensagem original esperada: Manu Preguiçosa
+==========================================
+

@@ -1,65 +1,50 @@
 from Crypto.Cipher import DES, AES, PKCS1_OAEP
 from Crypto.PublicKey import RSA
 from Crypto.Random import get_random_bytes
+from funcoes_criptografadas import DES, AES, PKCS1_OAEP
+from Crypto.Util.Padding import pad
+from Crypto.Util.Padding import unpad
+
 import base64
-
-
-def pad(text, block_size):
-    pad_len = block_size - len(text) % block_size
-    return text + chr(pad_len) * pad_len
-
-
-def unpad(text):
-    pad_len = ord(text[-1])
-    return text[:-pad_len]
-
 
 # ----- DES com CBC -----
 def encrypt_des(message):
-    key = get_random_bytes(8)  # DES = 64 bits
-    iv = get_random_bytes(8)   # IV = 64 bits
+    key = get_random_bytes(8)
+    iv = get_random_bytes(8)
     cipher = DES.new(key, DES.MODE_CBC, iv)
-    padded_text = pad(message, 8)
-    ciphertext = cipher.encrypt(padded_text.encode())
-
-    # Retorna texto cifrado + chave + IV codificados
-    return (
-        base64.b64encode(ciphertext).decode(),
-        base64.b64encode(key).decode(),
-        base64.b64encode(iv).decode()
-    )
+    padded_text = pad(message.encode(), DES.block_size)
+    ciphertext = cipher.encrypt(padded_text)
+    return ciphertext.hex(), key.hex(), iv.hex()
 
 
-def decrypt_des(ciphertext_b64, key_b64, iv_b64):
-    ciphertext = base64.b64decode(ciphertext_b64)
-    key = base64.b64decode(key_b64)
-    iv = base64.b64decode(iv_b64)
+def decrypt_des(ciphertext_hex, key_hex, iv_hex):
+    key = bytes.fromhex(key_hex)
+    iv = bytes.fromhex(iv_hex)
+    ciphertext = bytes.fromhex(ciphertext_hex)
     cipher = DES.new(key, DES.MODE_CBC, iv)
-    padded_text = cipher.decrypt(ciphertext).decode()
-    return unpad(padded_text)
+    padded_message = cipher.decrypt(ciphertext)
+    message = unpad(padded_message, DES.block_size).decode()
+    return message
 
 
 # ----- AES com CBC -----
 def encrypt_aes(message):
-    key = get_random_bytes(16)  # AES = 128 bits
+    key = get_random_bytes(16)  # 16 bytes = 128 bits
     iv = get_random_bytes(16)
     cipher = AES.new(key, AES.MODE_CBC, iv)
-    padded_text = pad(message, 16)
-    ciphertext = cipher.encrypt(padded_text.encode())
-    return (
-        base64.b64encode(ciphertext).decode(),
-        base64.b64encode(key).decode(),
-        base64.b64encode(iv).decode()
-    )
+    padded_text = pad(message.encode(), AES.block_size)
+    ciphertext = cipher.encrypt(padded_text)
+    return ciphertext.hex(), key.hex(), iv.hex()
 
 
-def decrypt_aes(ciphertext_b64, key_b64, iv_b64):
-    ciphertext = base64.b64decode(ciphertext_b64)
-    key = base64.b64decode(key_b64)
-    iv = base64.b64decode(iv_b64)
+def decrypt_aes(ciphertext_hex, key_hex, iv_hex):
+    key = bytes.fromhex(key_hex)
+    iv = bytes.fromhex(iv_hex)
+    ciphertext = bytes.fromhex(ciphertext_hex)
     cipher = AES.new(key, AES.MODE_CBC, iv)
-    padded_text = cipher.decrypt(ciphertext).decode()
-    return unpad(padded_text)
+    padded_message = cipher.decrypt(ciphertext)
+    message = unpad(padded_message, AES.block_size).decode()
+    return message
 
 
 # ----- RSA com chave pública e privada -----
